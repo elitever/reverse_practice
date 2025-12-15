@@ -1,6 +1,6 @@
 ## dy相关接口，需要可联系
 
-### **[http://124.223.166.193:9191/docs](http://117.72.170.87:9191/docs)**
+### **[http://124.223.166.193:9191/docs](http://124.223.166.193:9191/docs)**
 
 ### **[https://app.apifox.com/project/7218318](https://app.apifox.com/project/7218318)**
 
